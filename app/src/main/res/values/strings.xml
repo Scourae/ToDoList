@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">To-Do List</string>
+	<string name="add_item">addItem</string>
+	<string name="name">Name</string>
+	<string name="enter_name_here">Enter Name Here</string>
+	<string name="urgency">Urgency</string>
+	<string name="low">LOW</string>
+	<string name="mid">MID</string>
+	<string name="high">HIGH</string>
+	<string name="finish_time">Finish Time</string>
+	<string name="date_not_set">Date Not Set</string>
+	<string name="time_not_set">Time Not Set</string>
+	<string name="choose_date">Choose Date</string>
+	<string name="choose_time">Choose Time</string>
+	<string name="description">Discription</string>
+	<string name="enter_description_here">Enter Description Here</string>
+	<string name="cancel">Cancel</string>
+	<string name="reset">Reset</string>
+	<string name="submit">Submit</string>
+	<string name="keep">Keep</string>
+	<string name="remove">Remove</string>
+</resources>
